@@ -46,6 +46,7 @@ All processing and modeling steps are implemented in \*\*Jupyter Notebooks\*\*.
 
 
 
+```text
 ├── House Pricing Prediction.ipynb      # Main training and modeling notebook
 ├── Predictions.ipynb                   # Notebook for generating predictions
 ├── train.csv                           # Training dataset
@@ -55,6 +56,7 @@ All processing and modeling steps are implemented in \*\*Jupyter Notebooks\*\*.
 ├── catboost_info/                      # CatBoost training logs
 ├── requirements.txt                    # Project dependencies
 └── README.md                           # Project documentation
+```
 
 
 
