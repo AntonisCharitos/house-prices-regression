@@ -46,15 +46,15 @@ All processing and modeling steps are implemented in \*\*Jupyter Notebooks\*\*.
 
 
 
-├── House Pricing Prediction.ipynb # Main training and modeling notebook
-├── Predictions.ipynb # Notebook for generating predictions
-├── train.csv # Training dataset
-├── test.csv # Test dataset
-├── submission.csv # Final submission file for Kaggle
-├── cat_pipeline.pickle # Saved CatBoost pipeline
-├── catboost_info/ # CatBoost training logs
-├── requirements.txt # Project dependencies
-└── README.md # Project documentation
+├── House Pricing Prediction.ipynb      # Main training and modeling notebook
+├── Predictions.ipynb                   # Notebook for generating predictions
+├── train.csv                           # Training dataset
+├── test.csv                            # Test dataset
+├── submission.csv                      # Final submission file for Kaggle
+├── cat_pipeline.pickle                 # Saved CatBoost pipeline
+├── catboost_info/                      # CatBoost training logs
+├── requirements.txt                    # Project dependencies
+└── README.md                           # Project documentation
 
 
 
